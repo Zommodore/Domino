@@ -1,9 +1,3 @@
-//ProjetoDOMINO - Projeto  Domino (model.cpp)
-//Carlos Gabriel Gouveia
-//Diogo Casari del Pino
-//Gustavo Nascimento Zanatta
-//Juan Fernando Coucolis Isano
-
 #include "DOM-WIN_Model.h"
 #include <stdio.h>
 
