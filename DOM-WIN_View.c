@@ -1,8 +1,3 @@
-//Carlos Gabriel Gouveia
-//Diogo Casari del Pino
-//Gustavo Nascimento Zanatta
-//Juan Fernando Coucolis Isano
-
 #include "DOM-WIN_View.h"
 #include <stdio.h>
 #include <stdlib.h>
