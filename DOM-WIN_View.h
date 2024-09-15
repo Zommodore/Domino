@@ -1,8 +1,3 @@
-//ProjetoDOMINO - Projeto  Domino (view.h)
-//Carlos Gabriel Gouveia
-//Diogo Casari del Pino
-//Gustavo Nascimento Zanatta
-//Juan Fernando Coucolis Isano
 int fMenuGeral();//menu inicial do jogo
 int fMenuDois();//menu para jogos de dois jogaodres
 int fMenuComputador(); //menu do jogo contra o computador
