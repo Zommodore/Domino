@@ -1,9 +1,3 @@
-/ ProjetoDOMINO - Projeto Domino (controller.cpp)
-// Carlos Gabriel Gouveia
-// Diogo Casari del Pino
-// Gustavo Nascimento Zanatta
-// Juan Fernando Coucolis Isano
-
 #include "DOM-WIN_Controller.h"
 #include "DOM-WIN_View.cpp"
 #include <stdlib.h>
