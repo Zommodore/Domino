@@ -1,8 +1,3 @@
-//ProjetoDOMINO - Projeto  Domino (controller.h)
-//Carlos Gabriel Gouveia
-//Diogo Casari del Pino
-//Gustavo Nascimento Zanatta
-//Juan Fernando Coucolis Isano
 void fExecutarMenu();//executa o menu 
 void fMenuJogo();//menu do jogo
 void fEmbaralhar();//funcao para embaralhar as pecas e entregar aos jogadores
